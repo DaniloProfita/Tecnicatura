@@ -1,0 +1,2 @@
+esta es la primera linea de texto de la clase 3
+agregamos una segunda linea a nuestro archivo
