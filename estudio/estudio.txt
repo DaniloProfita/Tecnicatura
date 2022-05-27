@@ -7,3 +7,8 @@ git checkout
 
 estamos trabajando sobre una rama nueva
 nuestra rama nueva se llama imagen
+
+otro de los comandos que veremos en git
+
+git merge
+
