@@ -5,7 +5,8 @@ public class Ejercicio07 {
         Scanner entrada = new Scanner(System.in);
         //Ejercicio 7: Pedir numero hasta que se introduzca uno negativo y calcular la media.
 
-        int numero, contador = 0, media = 0, acumulador = 0;
+        int numero, contador = 0, acumulador = 0;
+        float media = 0;
         do{
             System.out.println("Digite un numero: ");
             numero = Integer.parseInt(entrada.nextLine());
