@@ -5,6 +5,17 @@ public class Aritmetica {
     int a;
     int b;
 
+    //El constructor es un metodo especial
+    public Aritmetica(){
+        System.out.println("Se esta ejecutando el constructor 1");
+    }
+
+    public Aritmetica(int a, int b){
+        this.a = a;
+        this.b = b;
+        System.out.println("Se esta ejecutando el constructor 2");
+    }
+
     //Metodo
     public void sumarNumeros() {
         int resultado = a + b;
