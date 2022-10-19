@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
+//Ejercicio 6: Pedir numero hasta que se teclee un 0, mostrar la suma de todos los numeros introducidos.
 public class Ejercicio06 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        //Ejercicio 6: Pedir numero hasta que se teclee un 0, mostrar la suma de todos los numeros introducidos.
 
         int numero, suma = 0;
         do{
